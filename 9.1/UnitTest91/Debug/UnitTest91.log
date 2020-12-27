@@ -1,0 +1,6 @@
+﻿  UnitTest91.cpp
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.1\9.1\9.1.cpp(77,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.1\9.1\9.1.cpp(81,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.1\9.1\9.1.cpp(85,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\User\Desktop\Пол?тех\АТП\лаби\9тема\9.1\Debug\UnitTest91.lib and object C:\Users\User\Desktop\Пол?тех\АТП\лаби\9тема\9.1\Debug\UnitTest91.exp
+  UnitTest91.vcxproj -> C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.1\Debug\UnitTest91.dll
