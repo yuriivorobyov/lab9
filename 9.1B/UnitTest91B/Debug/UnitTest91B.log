@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest91B.cpp
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\9.2B\9.2B.cpp(124,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\9.2B\9.2B.cpp(128,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\9.2B\9.2B.cpp(132,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\9.2B\9.2B.cpp(136,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\9.2B\9.2B.cpp(140,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     Creating library C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\Debug\UnitTest91B.lib and object C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\Debug\UnitTest91B.exp
+  UnitTest91B.vcxproj -> C:\Users\User\Desktop\Політех\АТП\лаби\9тема\9.2B\Debug\UnitTest91B.dll
